@@ -1,6 +1,6 @@
 # Noodles-classifier
 
-## Fork of: https://github.com/googlecodelabs/tensorflow-for-poets-2
+## Fork of: [tensorflow-for-poets-2](https://github.com/googlecodelabs/tensorflow-for-poets-2)
 
 ## Train:
 
